@@ -1,0 +1,2 @@
+Airline,Source,Destination,Travel_Class,Days_Before_Departure,Predicted_Price,Historical_Median,Deal_Score,Comparable_Flights,Recommendation
+qatar airways,Delhi,London,Economy,30,68773.66924717874,75710.96,71.95121951219512,82,CONSIDER BOOKING — This price is reasonably favorable compared with similar flights.
